@@ -9,8 +9,8 @@ export const fallbackProfile = {
   github: "https://github.com/gauravtiwari",
   linkedin: "https://linkedin.com/in/gauravtiwari",
   whatsapp: "https://wa.me/910000000000",
-  photoUrl: "/assets/gaurav-photo.jpg",
-  resumeUrl: "/assets/Gaurav_Tiwari_Resume.pdf",
+  photoUrl:  "/assets/gaurav.jpeg",
+  resumeUrl: "/assets/Gaurav_Tiwari_Resume14.pdf",
   bio: "B.Tech IT student building full-stack MERN applications enhanced with AI.",
   skills: [
     "JavaScript",
